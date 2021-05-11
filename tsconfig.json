@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",                    
+    "strict": true,
+    "strictNullChecks": true,                         
+    "esModuleInterop": true,                  
+    "skipLibCheck": true,      
+    "rootDir": "src",
+    "outDir": "bin"              
+  }
+}
